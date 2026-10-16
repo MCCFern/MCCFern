@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Data Analyst and Junior Data Scientist trained at **The Bridge Digital Talent Accelerator** (Data Science Bootcamp, 2026), combining a strong analytical foundation in **Chemistry** (154 ECTS completed at UGR & UNED) with over 10 years of professional experience in **scientific and technical translation** (Life Sciences, Clinical Trials, and Economics).
+I am a Data Analyst and Junior Data Scientist trained at **The Bridge Digital Talent Accelerator** (Data Science Bootcamp, 2026), combining a strong analytical foundation in **Chemistry** (university studies; degree not completed; 154 ECTS recorded in the January 2024 UNED transcript, including credits recognised from earlier UGR studies) with over 10 years of professional experience in **scientific and technical translation** (Life Sciences, Clinical Trials, and Economics).
 
 I specialize in turning raw, messy operational data into clear business metrics, SQL data models, and actionable insights—bridging the gap between technical data teams and business stakeholders in both English and Spanish.
 
